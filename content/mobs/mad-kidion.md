@@ -3,7 +3,7 @@ name: Mad Kidion
 level: 13
 race: Alona
 aggressive: true
-hp: 8000
+hp: 4500
 element: normal
 attack: { element: normal }
 credits: { min: 200, max: 2500 }

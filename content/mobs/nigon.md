@@ -3,7 +3,7 @@ name: Nigon
 level: 7
 race: Nopon
 aggressive: false
-hp: 300
+hp: 900
 element: normal
 attack: { element: normal }
 credits: { min: 25, max: 225 }

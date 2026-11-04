@@ -1,9 +1,9 @@
 ---
 name: Lord Shraderix
-level: 19
+level: 14
 race: Utron
 aggressive: true
-hp: 30000
+hp: 13500
 element: earth
 attack: { element: earth }
 credits: { min: 3000, max: 6000 }

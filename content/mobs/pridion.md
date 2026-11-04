@@ -1,9 +1,9 @@
 ---
 name: Pridion
-level: 19
+level: 15
 race: Braun
 aggressive: true
-hp: 60000
+hp: 17000
 element: earth
 attack: { element: earth }
 credits: { min: 3000, max: 6000 }

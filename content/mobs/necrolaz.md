@@ -3,7 +3,7 @@ name: Necrolaz
 level: 2
 race: Lazeel
 aggressive: true
-hp: 200
+hp: 5000
 element: death
 attack: { element: death }
 credits: { min: 2, max: 10 }

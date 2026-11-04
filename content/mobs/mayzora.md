@@ -3,7 +3,7 @@ name: Mayzora
 level: 9
 race: Bridion
 aggressive: true
-hp: 4400
+hp: 3500
 element: normal
 attack: { element: normal }
 credits: { min: 60, max: 800 }

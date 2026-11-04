@@ -3,7 +3,7 @@ name: Uato
 level: 9
 race: Cribuan
 aggressive: false
-hp: 3000
+hp: 3500
 element: normal
 attack: { element: normal }
 credits: { min: 60, max: 800 }

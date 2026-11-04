@@ -3,7 +3,7 @@ name: Lidion
 level: 9
 race: Kzon
 aggressive: false
-hp: 3600
+hp: 2300
 element: normal
 attack: { element: normal }
 credits: { min: 60, max: 800 }

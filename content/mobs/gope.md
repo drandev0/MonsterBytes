@@ -3,7 +3,7 @@ name: Gope
 level: 7
 race: Cribuant
 aggressive: false
-hp: 2500
+hp: 1500
 element: normal
 attack: { element: normal }
 credits: { min: 25, max: 225 }

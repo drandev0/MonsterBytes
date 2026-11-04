@@ -3,7 +3,7 @@ name: Clegorn
 level: 10
 race: Midion
 aggressive: true
-hp: 2250
+hp: 2300
 element: normal
 attack: { element: normal }
 credits: { min: 80, max: 1000 }

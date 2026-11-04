@@ -3,7 +3,7 @@ name: Uline
 level: 7
 race: Trapon
 aggressive: false
-hp: 1200
+hp: 800
 element: normal
 attack: { element: normal }
 credits: { min: 25, max: 225 }

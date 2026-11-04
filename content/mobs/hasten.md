@@ -3,7 +3,7 @@ name: Hasten
 level: 11
 race: Rision
 aggressive: false
-hp: 700
+hp: 1500
 element: normal
 attack: { element: normal }
 credits: { min: 100, max: 1500 }

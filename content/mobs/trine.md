@@ -3,7 +3,7 @@ name: Trine
 level: 8
 race: Norion
 aggressive: true
-hp: 350
+hp: 400
 element: normal
 attack: { element: normal }
 credits: { min: 50, max: 500 }

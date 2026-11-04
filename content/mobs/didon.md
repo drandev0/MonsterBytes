@@ -3,7 +3,7 @@ name: Didon
 level: 4
 race: Blod
 aggressive: true
-hp: 150
+hp: 300
 element: normal
 attack: { element: normal }
 credits: { min: 10, max: 25 }

@@ -1,6 +1,6 @@
 ---
 name: Guab Fish
-level: 6
+level: 4
 race: Infant Guab
 aggressive: false
 hp: 150

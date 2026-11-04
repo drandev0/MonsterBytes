@@ -1,9 +1,9 @@
 ---
 name: Ashadra
-level: 16
+level: 12
 race: Utron
 aggressive: true
-hp: 40000
+hp: 10000
 element: earth
 attack: { element: earth }
 credits: { min: 1500, max: 5000 }

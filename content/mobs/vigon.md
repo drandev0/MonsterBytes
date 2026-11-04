@@ -3,7 +3,7 @@ name: Vigon
 level: 3
 race: Trapon
 aggressive: false
-hp: 500
+hp: 300
 element: normal
 attack: { element: normal }
 credits: { min: 5, max: 15 }

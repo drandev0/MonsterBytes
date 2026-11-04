@@ -3,7 +3,7 @@ name: Gonlon
 level: 8
 race: Blod
 aggressive: true
-hp: 3500
+hp: 3000
 element: normal
 attack: { element: normal }
 credits: { min: 50, max: 500 }

@@ -3,7 +3,7 @@ name: Flob
 level: 1
 race: Kzon
 aggressive: false
-hp: 20
+hp: 30
 element: normal
 attack: { element: normal }
 credits: { min: 1, max: 5 }

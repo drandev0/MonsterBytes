@@ -1,9 +1,9 @@
 ---
 name: Frube
-level: 19
+level: 15
 race: Frube
 aggressive: true
-hp: 45000
+hp: 18000
 element: earth
 attack: { element: earth }
 credits: { min: 3000, max: 6000 }

@@ -3,7 +3,7 @@ name: Deathbot01
 level: 12
 race: Quantbion
 aggressive: true
-hp: 1500
+hp: 2000
 element: normal
 attack: { element: normal }
 credits: { min: 150, max: 2000 }

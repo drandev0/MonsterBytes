@@ -2,7 +2,7 @@
 name: Pridan
 level: 10
 race: Dion
-aggressive: false
+aggressive: true
 hp: 1500
 element: normal
 attack: { element: normal }

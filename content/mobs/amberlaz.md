@@ -3,7 +3,7 @@ name: Amberlaz
 level: 2
 race: Lazeel
 aggressive: false
-hp: 20
+hp: 30
 element: normal
 attack: { element: normal }
 credits: { min: 2, max: 10 }

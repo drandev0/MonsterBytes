@@ -3,7 +3,7 @@ name: Lauder
 level: 11
 race: Hipion
 aggressive: false
-hp: 650
+hp: 1500
 element: rune
 attack: { element: rune }
 credits: { min: 100, max: 1500 }

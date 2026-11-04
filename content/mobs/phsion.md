@@ -3,7 +3,7 @@ name: Phsion
 level: 12
 race: Philion
 aggressive: true
-hp: 2400
+hp: 3500
 element: normal
 attack: { element: normal }
 credits: { min: 150, max: 2000 }

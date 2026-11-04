@@ -3,7 +3,7 @@ name: Scrot
 level: 9
 race: Dion
 aggressive: false
-hp: 3500
+hp: 3000
 element: normal
 attack: { element: normal }
 credits: { min: 60, max: 800 }

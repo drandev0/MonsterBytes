@@ -1,9 +1,9 @@
 ---
-name: Trisk Elite
+name: Elite Trisk
 level: 15
 race: Philion
 aggressive: true
-hp: 35000
+hp: 7000
 element: earth
 attack: { element: earth }
 credits: { min: 1000, max: 3000 }

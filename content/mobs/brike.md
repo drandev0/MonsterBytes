@@ -1,9 +1,9 @@
 ---
 name: Brike
-level: 19
+level: 15
 race: Hijon
 aggressive: true
-hp: 55000
+hp: 18000
 element: earth
 attack: { element: earth }
 credits: { min: 3000, max: 6000 }

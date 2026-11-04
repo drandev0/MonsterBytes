@@ -1,9 +1,9 @@
 ---
 name: Insane Shockion
-level: 7
+level: 8
 race: Shapra
 aggressive: true
-hp: 600
+hp: 2000
 element: normal
 attack: { element: normal }
 credits: { min: 25, max: 225 }

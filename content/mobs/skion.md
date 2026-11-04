@@ -3,7 +3,7 @@ name: Skion
 level: 10
 race: Dion
 aggressive: false
-hp: 800
+hp: 1500
 element: normal
 attack: { element: normal }
 credits: { min: 80, max: 1000 }

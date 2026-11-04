@@ -3,7 +3,7 @@ name: Quadoty
 level: 7
 race: Quadoty
 aggressive: true
-hp: 520
+hp: 1000
 element: normal
 attack: { element: normal }
 locations: [ Boomtown ]

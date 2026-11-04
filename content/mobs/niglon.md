@@ -2,8 +2,8 @@
 name: Niglon
 level: 8
 race: Trapon
-aggressive: false
-hp: 2800
+aggressive: true
+hp: 2000
 element: normal
 attack: { element: normal }
 credits: { min: 50, max: 500 }

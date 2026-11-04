@@ -1,9 +1,9 @@
 ---
 name: Zeth
-level: 19
+level: 15
 race: Zon
 aggressive: true
-hp: 55000
+hp: 15000
 element: earth
 attack: { element: earth }
 credits: { min: 3000, max: 6000 }

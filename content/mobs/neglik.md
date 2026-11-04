@@ -3,7 +3,7 @@ name: Neglik
 level: 5
 race: Nopon
 aggressive: false
-hp: 50
+hp: 300
 element: normal
 attack: { element: normal }
 credits: { min: 15, max: 75 }

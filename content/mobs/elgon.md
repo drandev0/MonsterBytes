@@ -2,7 +2,7 @@
 name: Elgon
 level: 6
 race: Dion
-aggressive: false
+aggressive: true
 hp: 550
 element: normal
 attack: { element: normal }

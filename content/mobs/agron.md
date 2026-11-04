@@ -3,7 +3,7 @@ name: Agron
 level: 12
 race: Hipion
 aggressive: false
-hp: 1000
+hp: 2500
 element: normal
 attack: { element: normal }
 credits: { min: 150, max: 2000 }

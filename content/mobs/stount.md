@@ -3,7 +3,7 @@ name: Stount
 level: 6
 race: Hipion
 aggressive: false
-hp: 160
+hp: 300
 element: normal
 attack: { element: normal }
 credits: { min: 20, max: 150 }

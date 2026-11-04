@@ -1,9 +1,9 @@
 ---
 name: Eyezion
-level: 17
+level: 16
 race: Bron
 aggressive: true
-hp: 50000
+hp: 20000
 element: death
 attack: { element: death }
 credits: { min: 2500, max: 5000 }

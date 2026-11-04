@@ -3,7 +3,7 @@ name: Soilaz
 level: 3
 race: Lazeel
 aggressive: false
-hp: 20
+hp: 40
 element: normal
 attack: { element: normal }
 credits: { min: 5, max: 15 }

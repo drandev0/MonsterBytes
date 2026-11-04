@@ -1,9 +1,9 @@
 ---
-name: Mad Negliks
+name: Mad Neglik
 level: 10
 race: Nopon
 aggressive: true
-hp: 500
+hp: 3500
 element: normal
 attack: { element: normal }
 credits: { min: 80, max: 1000 }
