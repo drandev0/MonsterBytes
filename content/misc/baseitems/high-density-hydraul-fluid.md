@@ -1,0 +1,9 @@
+---
+name: High Density Hydraul Fluid
+buy: 550
+sell: 200
+iconId: 17
+pic: pix/baseitems.jpg
+picNote: no picture of its own; shows "BaseItems.jpg", the category picture the program itself falls back to
+source: monsterbytes
+---

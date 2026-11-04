@@ -1,0 +1,25 @@
+# Checks every change to the guide. Problems appear as notes on the pull
+# request's changed lines, and a failing check stops a bad change being merged.
+# Merged changes go live on their own: the site fetches this repository.
+name: Check content
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Check the content
+        run: npm run check

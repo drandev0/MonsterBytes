@@ -1,0 +1,12 @@
+{
+  "name": "monsterbytes-content",
+  "private": true,
+  "description": "The Endless Ages Monster Bytes guide, one Markdown file per entry, edited by players",
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/compile-content.mjs"
+  },
+  "dependencies": {
+    "yaml": "^2.9.1"
+  }
+}

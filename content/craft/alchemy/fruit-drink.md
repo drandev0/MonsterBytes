@@ -1,0 +1,12 @@
+---
+name: Fruit Drink
+level: 1
+rank: Novice
+product: Misc
+ingredients:
+  - { item: Orange, qty: 1 }
+  - { item: Fruit Liquor, qty: 1 }
+pic: pix/alchemy.jpg
+picNote: the category picture ("Alchemy.jpg")
+source: monsterbytes
+---
