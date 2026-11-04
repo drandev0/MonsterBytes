@@ -12,7 +12,7 @@ requires: { str: 40, dex: 80, wis: 40 }
 store: false
 dropsFromMobs: false
 engineered: false
-quested: false
+quested: true
 iconId: 180
 pic: pix/ap-dual-gustlaz-a.jpg
 picNote: this item's own picture (exact match)

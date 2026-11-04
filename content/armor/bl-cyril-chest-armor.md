@@ -12,7 +12,7 @@ resist:
   earth: 0
   air: 0
   death: 0
-store: false
+store: 169
 dropsFromMobs: false
 smithed: false
 quested: false

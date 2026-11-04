@@ -12,7 +12,7 @@ requires: { str: 25, dex: 38, wis: 38 }
 store: false
 dropsFromMobs: false
 engineered: false
-quested: false
+quested: true
 iconId: 66
 pic: pix/hf-ion-dualshot.jpg
 picNote: this item's own picture (exact match)

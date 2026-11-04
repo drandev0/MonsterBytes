@@ -12,7 +12,7 @@ requires: { str: 20, dex: 40, wis: 20 }
 store: false
 dropsFromMobs: false
 engineered: false
-quested: false
+quested: true
 iconId: 182
 pic: pix/ap-dual-necrolaz-d.jpg
 picNote: this item's own picture (exact match)

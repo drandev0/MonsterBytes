@@ -12,7 +12,7 @@ requires: { str: 25, dex: 50, wis: 25 }
 store: false
 dropsFromMobs: false
 engineered: false
-quested: false
+quested: true
 iconId: 181
 pic: pix/ap-dual-komilaz-n.jpg
 picNote: this item's own picture (exact match)

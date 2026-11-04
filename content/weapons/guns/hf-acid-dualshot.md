@@ -12,7 +12,7 @@ requires: { str: 50, dex: 30, wis: 30 }
 store: false
 dropsFromMobs: false
 engineered: false
-quested: false
+quested: true
 iconId: 38
 pic: pix/hf-acid-dualshot.jpg
 picNote: this item's own picture (exact match)

@@ -3,7 +3,7 @@ name: "[BL] Rocketpack - 01"
 level: 0
 store: false
 smithed: false
-quested: false
+quested: true
 flies: true
 flightTime: 34
 vehicleType: JetPacks and Wings
